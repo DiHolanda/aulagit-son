@@ -1,1 +1,4 @@
 Olá mundo!
+Lembre-se da sequência de comandos a serem dados para que as alterações sejam registradas e gere uma nova versão do repositório
+- git add arquivo.txt
+- git commit -m "Mensagem feliz :)"
