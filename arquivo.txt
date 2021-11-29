@@ -2,3 +2,5 @@ Olá mundo!
 Lembre-se da sequência de comandos a serem dados para que as alterações sejam registradas e gere uma nova versão do repositório
 - git add arquivo.txt
 - git commit -m "Mensagem feliz :)"
+
+Agora vou salvar este novo texto enquanto há commits em paralelo com outra branch, para depois mesclar tudo 
