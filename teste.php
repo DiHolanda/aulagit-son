@@ -1,1 +1,1 @@
-<?="teste"?>
+<?="testando sincronia entre devs"?>
