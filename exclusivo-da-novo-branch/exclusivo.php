@@ -1,1 +1,1 @@
-<?="Para sempre serei exclusivo daqui >:|";?>
+<?="Não está mais exclusivo, aceita que dói menos";?>
