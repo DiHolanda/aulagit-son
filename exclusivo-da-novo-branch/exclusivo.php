@@ -1,0 +1,1 @@
+<?="Para sempre serei exclusivo daqui >:|";?>
